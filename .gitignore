@@ -7,3 +7,6 @@
 /ConsoleShenanigans/obj
 /ConsoleShenanigansTests/bin/Debug/net6.0
 /ConsoleShenanigansTests/obj
+/.vs/ConsoleShenanigans
+/ConsoleBench/obj
+/ConsoleBench/bin/Debug/net6.0
